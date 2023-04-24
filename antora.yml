@@ -1,1 +1,6 @@
-
+name: bage-wink
+title: Nikita Danilov @Mubeg
+version: ~
+start_page: index.adoc 
+nav: 
+- modules/ROOT/nav.adoc 

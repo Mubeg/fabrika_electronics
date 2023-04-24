@@ -1,0 +1,10 @@
+* xref:index.adoc[Мерцающий бейдж]
+
+.Этапы
+.  xref:virtual_modeling.adoc[Виртуальное моделирование]
+.  xref:natural_modeling.adoc[Натуральное моделирование]
+.  xref:shema.adoc[Разработка схемы]
+.  xref:plata_teor.adoc[Разработка печатной платы]
+.  xref:plata_phys.adoc[Производство печатной платы]
+.  xref:graphics.adoc[Добавление шелкографии]
+.  xref:components.adoc[Сборка]
