@@ -1,6 +1,12 @@
+ifdef::env-github[]
+:imagesdir: ../images/
+endif::[]
+ifdef::env-vscode[]
+:imagesdir: ../images/
+endif::[]
 == Мерцающий бейдж
 
-image::Result_front.jpg[]
+image::{imagesdir}Result_front.jpg[]
 
 Проект мерцающего бейджа создавался для отработки процесса разработки электрической платы в рамках курса "ПРО".
 

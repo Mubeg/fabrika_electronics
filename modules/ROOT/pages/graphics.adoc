@@ -1,3 +1,9 @@
+ifdef::env-github[]
+:imagesdir: ../images/
+endif::[]
+ifdef::env-vscode[]
+:imagesdir: ../images/
+endif::[]
 == Добавление шелкографии
 
 После создания платы, можно добавить на неё надписи для упрощения сборки и красоты.

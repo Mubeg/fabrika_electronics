@@ -1,3 +1,9 @@
+ifdef::env-github[]
+:imagesdir: ../images/
+endif::[]
+ifdef::env-vscode[]
+:imagesdir: ../images/
+endif::[]
 == Разработка схемы
 
 Для создания электрической платы сперва необходимо создать её виртуальную схему.
