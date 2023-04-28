@@ -1,3 +1,6 @@
+ifdef::env-github[]
+:relfileprefix: pages/
+endif::[]
 * xref:index.adoc[Мерцающий бейдж]
 ** xref:virtual_modeling.adoc[Виртуальное моделирование]
 ** xref:natural_modeling.adoc[Натуральное моделирование]

@@ -6,7 +6,7 @@ ifdef::env-vscode[]
 endif::[]
 == Мерцающий бейдж
 
-image::{imagesdir}Result_front.jpg[]
+image::Result_front.jpg[]
 
 Проект мерцающего бейджа создавался для отработки процесса разработки электрической платы в рамках курса "ПРО".
 
